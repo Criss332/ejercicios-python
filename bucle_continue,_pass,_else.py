@@ -17,4 +17,4 @@ for i in email:
 else:
     arroba=False
 
-print(arroba)
+print("Por fabor vuelva a enviar el correo", arroba)
